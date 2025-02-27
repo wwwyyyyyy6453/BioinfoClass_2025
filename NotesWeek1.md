@@ -1,4 +1,4 @@
-# 生物信息学学习记录 - Week1
+# Class Notes - Week1
 
 
 
