@@ -24,24 +24,15 @@
 #### 1.2 下一代测序技术(Next Generation Sequencing Technology)
 
 1. ﻿﻿﻿DNA-seq
-
 2. ﻿﻿﻿RNA-seq
-
 3. ﻿﻿﻿Epigenetics
-
    * DNAase
-
    * ﻿﻿Methylation
-
    * Histone modifications: ChlP-seq
-
 4. Interaction
-
-   - ﻿﻿Protein-DNA: ChIP-seq
-
-   - ﻿﻿Protein-RNA: CLIP-seq
-
-   - ﻿﻿DNA-RNA: Grid-seq
+   * ﻿﻿Protein-DNA: ChIP-seq
+   * Protein-RNA: CLIP-seq
+   * ﻿﻿DNA-RNA: Grid-seq
 
      
 
@@ -49,25 +40,14 @@
 
 研究问题的一般步骤：Question、Information、Analysis、Modeling
 
-* **Question：**Biological/Medical Knowledge
-
+* **Question：** Biological/Medical Knowledge
 * **Information:** Biological/Medical Data
-
 * **Analysis:** Data Clean & Feature Extraction
+* **Modeling:** Probabilistic  Model & Computation Algorithm
 
-* **Modeling:**Probabilistic  Model & Computation Algorithm
+对于Question/Hypothesis-driven Science: Question -> Information -> Analysis -> Modeling
 
-对于Question/Hypothesis-driven Science:
-
-​	 Question -> Information -> Analysis -> Modeling
-
-对于Big Data-driven Science:
-
-​	Information -> Analysis -> Modeling -> Question
-
-
-
----
+对于Big Data-driven Science: Information -> Analysis -> Modeling -> Question
 
 
 
@@ -78,9 +58,9 @@
 #### 学习目标
 
 - 掌握生物信息学的基本概念和方法。
-- 熟悉常见的生物数据分析工具和编程语言（如Python和R）。
-- 理解基因组学、蛋白质组学和系统生物学中的主要算法和模型。
-- 争取能够使用实际数据集进行生物信息学分析。
+- 熟悉常见的生物数据分析工具和编程语言（如Python和R）
+- 理解基因组学、蛋白质组学和系统生物学中的主要算法和模型
+- 能够使用实际数据集进行生物信息学分析
 
 #### 学习计划
 
